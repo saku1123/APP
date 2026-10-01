@@ -1,3 +1,18 @@
+FastAPI: Main web framework for building the REST API
+
+Uvicorn: ASGI server to run the FastAPI application (localhost:8000)
+
+SQLAlchemy (Async): Async ORM for PostgreSQL database interactions
+
+pydantic: Data validation and schema definitions (email format, request/response models)
+
+pwdlib (with bcrypt): Password hashing and verification
+
+pyjwt: Generating and decoding JWT access tokens for authorization
+
+
+
+
 passwd codespace "student"
 
 # 1. 重置資料庫
@@ -13,3 +28,5 @@ github_pat_11BW6XKOQ0V4FXA6E2amLg_0YnvuZSY7mfnK2T9C7jxd9DJxkIDFJw1eugv6B7Jgr6PKH
 
 
 git push https://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@github.com/saku1123/api.git main --force
+
+
