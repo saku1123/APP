@@ -9,4 +9,4 @@ https://stunning-zebra-966qjrr9jjqhppg5-8000.app.github.dev/docs
 
 # 3. git push
 
-git push https://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@github.com/saku1123/api.git main
+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
